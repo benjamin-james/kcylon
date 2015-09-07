@@ -59,7 +59,7 @@ static unsigned int sleep_time = 100;
  * time
  */
 static volatile int button_level;
-static volatile struct mutex button_level_mutex;
+static struct mutex button_level_mutex;
 
 /**
  * @brief The direction the cylon beam is going in
