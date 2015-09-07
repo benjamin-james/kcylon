@@ -1,1 +1,2 @@
 A simple kernel module for controlling 10 LEDs over GPIO in a cylon pattern which can be stopped/started by pressing a button.
+You can find Doxygen documentation at https://benjamin-james.github.io/kcylon/kcylon_8c.html
