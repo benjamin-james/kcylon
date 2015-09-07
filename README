@@ -1,1 +1,0 @@
-A simple kernel module for controlling 10 LEDs over GPIO in a cylon pattern which can be stopped/started by pressing a button.
